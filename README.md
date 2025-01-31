@@ -1,10 +1,10 @@
 # tg-add-random-cloud
 
-This Python script is now part of the redmaw-tg-toolkit repository, and will no longer be developed as a stand-alone script in this repository.
-<ul>
-Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit) for the redmaw-tg-toolkit repository.<br>
-Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit/tree/main/scripts/tg-add-random-cloud) to go directly to the script in the redmaw-tg-toolkit
-</ul>
+<span style="color: red;">This Python script is now part of the <b>redmaw-tg-toolkit</b> repository, and will no longer be developed as a stand-alone script in this repository.</cspan>
+
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit) for the redmaw-tg-toolkit repository.<br> 
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit/tree/main/scripts/tg-add-random-cloud) to go directly to the <i>tg-add-random-cloud</i> folder in the redmaw-tg-toolkit.
+<hr>
 
 A fully functional Python script implementing Terragen 4 Professional’s remote procedure call (RPC) feature to add a random cloud layer to the active Terragen project. 
 
