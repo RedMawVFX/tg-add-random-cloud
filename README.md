@@ -1,5 +1,11 @@
 # tg-add-random-cloud
 
+This Python script is now part of the redmaw-tg-toolkit repository, and will no longer be developed as a stand-alone script in this repository.
+<ul>
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit) for the redmaw-tg-toolkit repository.<br>
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit/tree/main/scripts/tg-add-random-cloud) to go directly to the script in the redmaw-tg-toolkit
+</ul>
+
 A fully functional Python script implementing Terragen 4 Professional’s remote procedure call (RPC) feature to add a random cloud layer to the active Terragen project. 
 
 Have you ever wanted to quickly add some clouds to a project, while not really caring about the type of cloud layer it is?  Perhaps you just need a cloud layer to test with, or are looking for some arbitrary inspiration?  This script randomly adds a cloud layer to the project based on one of the cloud presets located in the Terragen GUI or the Quick Node Palette.
